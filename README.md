@@ -34,19 +34,19 @@ We have input the Elon Musk image in our code and then give a sample input image
 
 input image in code
 <figure>
-    <img src="Elon-Musk.png" alt="Image">
+    <img src="Elon-Musk.jpg" alt="Image">
     <figcaption align="center">Input Image In Code </figcaption>
 </figure>
 
 output
 TRUE
 <figure>
-    <img src="Elon2-1.png" alt="Image">
+    <img src="Elon2-1.jpg" alt="Image">
     <figcaption align="center">
 </figure>
 
 FALSE
 <figure>
-    <img src="Elon2-2.png" alt="Image">
+    <img src="Elon2-2.jpg" alt="Image">
     <figcaption align="center">
 </figure>
