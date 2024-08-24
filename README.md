@@ -33,11 +33,20 @@ After doing the importing images ,converting it to RGB and computing encodings;w
 We have input the Elon Musk image in our code and then give a sample input images of Elon Musk & Bill Gates for recognition then it will return the labeled image as true or false.
 
 input image in code
-alt text
+<figure>
+    <img src="Elon-Musk.png" alt="Image">
+    <figcaption align="center">Input Image In Code </figcaption>
+</figure>
 
 output
 TRUE
-alt text
+<figure>
+    <img src="Elon2-1.png" alt="Image">
+    <figcaption align="center">
+</figure>
 
 FALSE
-alt text
+<figure>
+    <img src="Elon2-2.png" alt="Image">
+    <figcaption align="center">
+</figure>
